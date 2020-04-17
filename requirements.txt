@@ -1,0 +1,3 @@
+opencv-python
+Pillow-7.1.1
+image

@@ -7,6 +7,13 @@ Technology used :
 -Python
 -tkinter GUI interface
 
+Creating a Folders:-
+-Attendance
+-ImagesUnknown
+-StudentDetails
+-TrainingImage
+-TrainingImageLabel
+
 Here I am working on Face recognition based Attendance Management System by using OpenCV.
 One can mark thier attendance by simply facing the camera. 
 

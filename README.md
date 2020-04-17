@@ -9,9 +9,13 @@ Technology used :
 
 Creating a Folders:-
 -Attendance
+
 -ImagesUnknown
+
 -StudentDetails
+
 -TrainingImage
+
 -TrainingImageLabel
 
 Here I am working on Face recognition based Attendance Management System by using OpenCV.
